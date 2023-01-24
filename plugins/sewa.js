@@ -14,7 +14,7 @@ let anu = `
    > Rp 4,000 /Minggu
 
 3. *SEWA PANEL MURAH*
-  ♨️: https://chat.whatsapp.com/LkH5H4b2cck6lDcz7sMnIv
+  ♨️: https://wa.me/6289519269447
    
 📮*NOTE* : Tidak melayani sewa bot permanen Tapi Klo mau 250k Gas...
 
