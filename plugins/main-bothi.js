@@ -3,7 +3,7 @@
 //conn.sendImageAsSticker(m.chat, 'https://database.tioclkp02.repl.co/IMG-20220724-WA0225.png', m, { packname: "database replit", author: "@tioclkp.replit" })
 //}
 
-//handler.customPrefix = /^(Bot|p)$/i
+//handler.customPrefix = /^(Bot|p|xia|manis|maniz|kiw kiw|cewek)$/i
 //handler.command = new RegExp
 
 //module.exports = handler
@@ -18,7 +18,7 @@ conn.sendFile(m.chat, helloarie, '', '', m, true)
 // await conn.sendMessage(m.chat, { audio: { url: helloarie }, mimetype: 'audio/mp4'}, m)
 }
 
-handler.customPrefix = /^(bot|robot|p|bang)$/i
+handler.customPrefix = /^(Bot|p|xia|manis|maniz|kiw kiw|cewek)$/i
 handler.command = new RegExp
 
 handler.limit = true
