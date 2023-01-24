@@ -13,7 +13,7 @@ m.reply(`
 │ • *Asal        :* 
 │
 └──ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙⬣
-https://ẉbit.ly/
+「 ẉ_Saꭙࣼia˘Botz.id 」
 `.trim()) // Tambah sendiri kalo mau
 }
 handler.command = /^(intro)$/i
