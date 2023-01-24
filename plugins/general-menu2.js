@@ -378,7 +378,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             }
           ]
     const listMessage = {
-      text: `❑ https://ẉbit.ly/Saxia˘Botz\n⬣ Adalah bot whatsapp yang di bangun dengan Nodejs By: Team Saxia\n⬣ Bot ini running di Panel yg di sponsori Danz :v\n⬣ Bot ini Juga bisa Membantu mu untuk Download Vidio Tiktok,Ig,Dan lain lain.\n⬣ Kalian Juga Bisa Main Game Seperti Game RPG DLL.`.trim(),
+      text: `❑ Saꭙࣼia˘Botz.id\n⬣ Adalah bot whatsapp yang di bangun dengan Nodejs By: Team Saxia\n⬣ Bot ini running di Panel yg di sponsori Danz :v\n⬣ Bot ini Juga bisa Membantu mu untuk Download Vidio Tiktok,Ig,Dan lain lain.\n⬣ Kalian Juga Bisa Main Game Seperti Game RPG DLL.`.trim(),
       footer: wm,
       title: judul,
       buttonText: "Taps Sini 💤",
