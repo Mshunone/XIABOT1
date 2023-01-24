@@ -1,4 +1,4 @@
-const qrsaxia = "https://telegra.ph/file/c8a8cabe89cda01e0fec9.jpg"
+const qrsaxia = "https://telegra.ph/file/551d0ce8a3d0736af1770.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrsaxia, `
 ┏──「 *Donasi Orang Baik* 」─⬣
