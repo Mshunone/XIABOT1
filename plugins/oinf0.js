@@ -12,7 +12,7 @@ conn.reply(m.chat, `
 │ ↬ _Group Random Gwa_ :
 │    https://chat.whatsapp.com/EUexY1yhxAB6wjD9ZP6MOU
 │ ↬ _Panel Murah_ :
-│    https://chat.whatsapp.com/LkH5H4b2cck6lDcz7sMnIv
+│    https://wa.me/6289519269447
 ❖––––『 Sosial Media 』––––❖
 │ 𖤍 _Instagram_ : 
 │    instagram.com/m.rxcl_
