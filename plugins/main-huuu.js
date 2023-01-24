@@ -1,9 +1,9 @@
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 
-conn.sendImageAsSticker(m.chat, pickRandom(stikerhuuu), m, { packname: "wa.me/6287855066799", author: "мυʀѕι∂ вσт-χмℓ\nig @mursid.st" })
+conn.sendImageAsSticker(m.chat, pickRandom(stikerhuuu), m, { packname: "wa.me/6283111136642", author: "Saxia Botz\nig @m.rxcl_" })
 }
 
-handler.customPrefix = /^(huuu)$/i
+handler.customPrefix = /^(huuu|sticker)$/i
 handler.command = new RegExp
 
 module.exports = handler
