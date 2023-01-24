@@ -416,7 +416,7 @@ module.exports = {
                 if (typeof chat !== 'object') global.db.data.chats[m.chat] = {}
                 if (chat) {
                     if (!('isBanned' in chat)) chat.isBanned = false
-                    if (!('welcome' in chat)) chat.welcome = true
+                    if (!('welcome' in chat)) chat.welcome = false
                     if (!('detect' in chat)) chat.detect = false
                     if (!('sWelcome' in chat)) chat.sWelcome = ''
                     if (!('sBye' in chat)) chat.sBye = ''
@@ -424,20 +424,20 @@ module.exports = {
                     if (!('sDemote' in chat)) chat.sDemote = ''
                     if (!('delete' in chat)) chat.delete = true
                     if (!('antiLink' in chat)) chat.antiLink = true
-                    if (!('viewonce' in chat)) chat.viewonce = true
+                    if (!('viewonce' in chat)) chat.viewonce = false
                     if (!('antiToxic' in chat)) chat.antiToxic = false
                 } else global.db.data.chats[m.chat] = {
                     isBanned: false,
-                    welcome: true,
+                    welcome: false,
                     detect: false,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
-                    antiLink: false,
+                    antiLink: true,
                     viewonce: false,
-                    antiToxic: true,
+                    antiToxic: false,
                 }
             } catch (e) {
                 console.error(e)
@@ -638,7 +638,7 @@ module.exports = {
                                 console.error(e)
                             }
                         }
-                        if (m.limit) m.reply(+ m.limit + ' Limit terpakai')
+                     
                     }
                     break
                 }
@@ -761,9 +761,9 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: 'Perintah ini hanya dapat digunakan oleh _*Devloper*_',
-        owner: 'Perintah ini hanya dapat digunakan oleh _*Devloper*_',
-        mods: 'Perintah ini hanya dapat digunakan oleh _*Devloper*_ !',
+        rowner: 'Perintah ini hanya dapat digunakan oleh _*Devloper*_ Xia',
+        owner: 'Perintah ini hanya dapat digunakan oleh _*Devloper*_ Xia',
+        mods: 'Perintah ini hanya dapat digunakan oleh _*Devloper*_  Xia!',
         premium: 'Perintah ini hanya untuk member _*Premium*_ !',
         group: 'Perintah ini hanya dapat digunakan di _*Grup*_!',
         private: 'Perintah ini hanya dapat digunakan di _*Chat Pribadi*_!',
