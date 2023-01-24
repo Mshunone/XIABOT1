@@ -1,4 +1,4 @@
-const kontol = "https://telegra.ph/file/f4b21013c0b52e0ef1b02.jpg"
+const kontol = "https://telegra.ph/file/551d0ce8a3d0736af1770.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, kontol, `
 Silahkan scan barcode di atas untuk melakukan transaksi, wajib menyertakan bukti transfer
