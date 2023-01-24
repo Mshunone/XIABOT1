@@ -5,12 +5,12 @@ let tio = 'ʜᴀʏᴏ ʙᴀɴɢ ɢᴀʙᴏʟᴇʜ ɢɪᴛᴜ'
 type: 'audioMessage', 
 ptt: true, contextInfo: {
         externalAdReply: { showAdAttribution: true, title: tio,
- body: wm, sourceUrl: 'https://mursidxml.herokuapp.com/docs', thumbnail: await (await fetch('https://telegra.ph/file/5e169bddd254ec1bf180a.jpg')).buffer()}} 
+ body: wm, sourceUrl: 'https://www.instagram.com/m.rxcl_', thumbnail: await (await fetch('https://telegra.ph/file/5e169bddd254ec1bf180a.jpg')).buffer()}} 
      })
 
 }
 
-handler.customPrefix = /^(crot|ahah|ah|crit|anjir)$/i
+handler.customPrefix = /^(crot|ahah|ah|crit|anjir|sange|prot|Xia|cortttt|anjing|lonte|kontol|memek)$/i
 handler.command = new RegExp
 
 module.exports = handler
