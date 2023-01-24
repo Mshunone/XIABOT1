@@ -23,7 +23,7 @@ handler.tags = ['group']
 handler.command = /^(kic?k|remove|tendang|\-)$/i
 
 handler.group = true
-handler.botAdmin = true
 handler.premium = true
+handler.botAdmin = true
 
 module.exports = handler
