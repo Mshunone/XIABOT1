@@ -25,7 +25,7 @@ let handler = async(m, { conn }) => {
 🖇️ Syarat Ketentuan  
 1. Bot akan keluar dari group Jika Waktu Sewa Habis.
 2. Bot dapat mem-ban users Jika melakukan Spam
-3. Bot *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.*
+3. Bot *tidak akan bertanggung jawab atas apapun yang users lakukan terhadap fitur bot.*
 4. Bot akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
 5. Bot bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 
