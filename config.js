@@ -5,17 +5,17 @@
 //『 Utama 』 //
 global.owner = ['6283805685278']  // isi jika perlu
 global.mods = ['6283805685278']   // isi jika perlu
-global.prems = ['6283805685278']  // isi jika perlu
+global.prems = ['6285641142178']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⻝Marx-San' // isi nama kalian bebas
+global.nameowner = '⻝ Marx-San' // isi nama kalian bebas
 global.numberowner = '6283805685278' // isi nomor kalian dengan awalan seperti di contoh 
 global.dana = 'Chek Katalog' // isi dengan nomor dana yg kamu punya 
 global.pulsa = 'Chek Katalog' // isi dengan nomor pulsa hp kalian
 global.gopay = 'Chek Katalog'
 
 //Name Bot & Grouplink//
-global.namebot = '「 ©Saxia˘Botz 」'
+global.namebot = '「 ẉ_Saꭙࣼia˘Botz.id 」'
 global.gc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz'
 global.web = 'https://bit.ly/SaxiaShop' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
@@ -25,7 +25,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '「 ©Saxia˘Botz 」'
 global.watermark = wm
 global.wm2 = '©Saxia˘Botz'
-global.wm3 = '「 ©Saxia˘Botz 」'
+global.wm3 = '「 ẉ_Saꭙࣼia˘Botz.id 」'
 global.wm4 = '2023'
 global.htki = '––––––「' 
 global.htka = '」––––––'
@@ -36,7 +36,7 @@ global.benar = 'вєɴαʀ'
 global.salah = 'ѕαlαн'
 global.stiker_wait = '「98%」Loading...'
 global.packname = 'sᴛɪᴄᴋᴇʀ ʙʏ'
-global.author = 'Saxia˘Botz'
+global.author = 'Saxia˘Botz\nWa.me/6283111136642'
 global.mursid = '+6283111136642'
 
 //Apikey Setting//
