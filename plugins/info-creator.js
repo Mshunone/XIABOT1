@@ -1,1 +1,51 @@
-const _0x6d163a=_0x538f;(function(_0x32b456,_0x532dec){const _0x35d6f3=_0x538f,_0x1fb778=_0x32b456();while(!![]){try{const _0x3658c6=-parseInt(_0x35d6f3(0x1ad))/0x1*(-parseInt(_0x35d6f3(0x1af))/0x2)+-parseInt(_0x35d6f3(0x1bd))/0x3*(-parseInt(_0x35d6f3(0x1a5))/0x4)+parseInt(_0x35d6f3(0x19e))/0x5+-parseInt(_0x35d6f3(0x1a9))/0x6+-parseInt(_0x35d6f3(0x1aa))/0x7*(parseInt(_0x35d6f3(0x1b4))/0x8)+parseInt(_0x35d6f3(0x1b6))/0x9*(-parseInt(_0x35d6f3(0x19f))/0xa)+-parseInt(_0x35d6f3(0x1bb))/0xb;if(_0x3658c6===_0x532dec)break;else _0x1fb778['push'](_0x1fb778['shift']());}catch(_0x469454){_0x1fb778['push'](_0x1fb778['shift']());}}}(_0x20e2,0x261ca));let fetch=require(_0x6d163a(0x1ba)),handler=async function(_0x57da89){const _0x55222f=_0x6d163a,_0x32e760={'key':{'fromMe':![],'participant':_0x55222f(0x1b5),'remoteJid':'status@broadcast'},'message':{'locationMessage':{'name':_0x55222f(0x1b1),'jpegThumbnail':await(await fetch(_0x55222f(0x1a4)))[_0x55222f(0x1c0)]()}}};let _0x2a3e7d=[];for(let _0x560b3c of owner[_0x55222f(0x1a0)](_0x20bb1d=>_0x20bb1d+'@s.whatsapp.net')){_0x2a3e7d[_0x55222f(0x1ae)]({'displayName':await conn[_0x55222f(0x1b2)](_0x560b3c),'vcard':'BEGIN:VCARD\x0aVERSION:3.0\x0aN:Sy;Bot;;;\x0aFN:'+await conn[_0x55222f(0x1b2)](_0x560b3c)+'\x0aitem1.TEL;waid='+_0x560b3c['split']('@')[0x0]+':'+_0x560b3c[_0x55222f(0x1a7)]('@')[0x0]+_0x55222f(0x1b0)+global[_0x55222f(0x1a8)]+_0x55222f(0x1ab)});}test=await this['sendMessage'](_0x57da89[_0x55222f(0x19d)],{'contacts':{'displayName':_0x2a3e7d[_0x55222f(0x19c)]+_0x55222f(0x1bc),'contacts':_0x2a3e7d}},{'quoted':_0x32e760});let _0x5583c2=[{'buttonId':_0x55222f(0x1be),'buttonText':{'displayText':'Donasi'},'type':0x1},{'buttonId':_0x55222f(0x1a3),'buttonText':{'displayText':_0x55222f(0x1b8)},'type':0x1}];const _0x5bff54={'text':_0x55222f(0x1bf)[_0x55222f(0x1b3)](),'footer':'','buttons':_0x5583c2,'headerType':_0x55222f(0x1b9)};conn[_0x55222f(0x1a1)](_0x57da89[_0x55222f(0x19d)],_0x5bff54,{'quoted':test});};function _0x538f(_0x2b3149,_0x43cb11){const _0x20e237=_0x20e2();return _0x538f=function(_0x538f1e,_0x179e3e){_0x538f1e=_0x538f1e-0x19c;let _0x422337=_0x20e237[_0x538f1e];return _0x422337;},_0x538f(_0x2b3149,_0x43cb11);}handler['help']=['owner',_0x6d163a(0x1b7)],handler[_0x6d163a(0x1ac)]=['info'],handler[_0x6d163a(0x1a6)]=/^(owner|creator)$/i,module[_0x6d163a(0x1a2)]=handler;function _0x20e2(){const _0x48c635=['trim','167032oNqKHZ','0@s.whatsapp.net','729oweDLZ','creator','Menu','EMPTY','node-fetch','2014782VFvrHI','\x20Contact','15FDbGkd','.donasi','\x0aHay\x20kak\x20itu\x20ownerku,\x20jangan\x20spam\x20yah\x20>_<\x0a','buffer','length','chat','1433770sygHzc','23530EumNmD','map','sendMessage','exports','.menu','https://telegra.ph/file/e14529544421dfedcebe1.jpg','193196DRxrsf','command','split','web','258678kIrREO','77pdubod','\x0aitem5.X-ABLabel:Website\x0aEND:VCARD','tags','1pCEQmC','push','548788LlwENu','\x0aitem1.X-ABLabel:ᴅᴇᴠᴇʟᴏᴘᴇʀ\x20мυʀѕι∂\x20вσт-χмℓ\x0aitem2.EMAIL;type=INTERNET:https://github.com/mursidxml\x0aitem2.X-ABLabel:Website\x0aitem3.ADR:;Yogykarta;\x0aitem3.X-ABADR:Indonesia\x0aitem3.X-ABLabel:Lokasi\x0aitem4.EMAIL;type=INTERNET:mursidxml@gmail.com\x0aitem4.X-ABLabel:Email\x0aitem5.URL:','мυʀѕι∂\x20вσт-χмℓ','getName'];_0x20e2=function(){return _0x48c635;};return _0x20e2();}
+var name = global.nameowner
+var numberowner = global.numberowner
+var gmail = global.mail
+const { 
+default: 
+makeWASocket,
+BufferJSON,
+WA_DEFAULT_EPHEMERAL, 
+generateWAMessageFromContent, 
+downloadContentFromMessage, 
+downloadHistory, 
+proto,
+getMessage, 
+generateWAMessageContent, 
+prepareWAMessageMedia 
+} = require("@adiwajshing/baileys");
+var handler = async (m, {
+conn
+}) => {
+const vcard = `BEGIN:VCARD
+VERSION:3.0
+N:Sy;Bot;;;
+FN: ${name}
+item.ORG: Creator Bot
+item1.TEL;waid=${numberowner}:${numberowner}@s.whatsapp.net
+item1.X-ABLabel:Nomor Creator Bot 
+item2.EMAIL;type=INTERNET:${gmail}
+item2.X-ABLabel:Email Owner
+item3.ADR:;;🇮🇩 Indonesia;;;;
+item3.X-ABADR:ac
+item4.EMAIL;type=INTERNET:support@tioprm.my.id
+item4.X-ABLabel:Email Developer 
+item3.ADR:;;🇨🇳 China;;;;
+item3.X-ABADR:ac 
+item5.URL:'-'
+item5.X-ABLabel:Website
+END:VCARD`
+const sentMsg  = await conn.sendMessage(
+    m.chat,
+    { 
+        contacts: { 
+            displayName: 'CN', 
+            contacts: [{ vcard }] 
+        }
+    }
+)
+await conn.reply(m.chat, "Itu Adalah nomor owner Bot", sentMsg)}
+handler.command = handler.help = ['owner', 'creator'];
+handler.tags = ['info'];
+handler.limit = true;
+module.exports = handler;
