@@ -1,3 +1,4 @@
+//buatan khasan dev.01
 var name = global.nameowner
 var numberowner = global.numberowner
 var gmail = global.mail
