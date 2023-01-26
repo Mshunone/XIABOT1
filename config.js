@@ -15,17 +15,17 @@ global.pulsa = 'Chek Katalog' // isi dengan nomor pulsa hp kalian
 global.gopay = 'Chek Katalog'
 
 //Name Bot & Grouplink//
-global.namebot = '「 ẉ_Saꭙࣼia˘Botz.id 」'
+global.namebot = '「 http://ẉ_Saꭙࣼia˘Botz 」'
 global.gc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz'
 global.web = 'https://bit.ly/SaxiaShop' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '「 ©Saxia˘Botz 」'
+global.wm = '「 http://ẉ_Saꭙࣼia˘Botz 」'
 global.watermark = wm
-global.wm2 = '©Saxia˘Botz'
-global.wm3 = '「 ẉ_Saꭙࣼia˘Botz.id 」'
+global.wm2 = '「 http://ẉ_Saꭙࣼia˘Botz 」'
+global.wm3 = '「 http://ẉ_Saꭙࣼia˘Botz 」'
 global.wm4 = '2023'
 global.htki = '––––––「' 
 global.htka = '」––––––'
