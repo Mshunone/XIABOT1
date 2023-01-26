@@ -1,6 +1,6 @@
 let handler = async (m, { conn, args, command }) => {
 	let group = m.chat
-        await m.reply('Byee👋', m.chat) 
+        await m.reply('Byee Semua Xia Out Ya👋', m.chat) 
         await conn.delay(1000)
         await conn.groupLeave(group)
         }
