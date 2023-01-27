@@ -1,14 +1,14 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/Kasanstore7/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-  <p align="center"><a href="https://github.com/BOTCAHX/RTXZY-MD/network/members">
+  <p align="center"><a href="https://github.com/Kasanstore7/XIA-BOT/network/members">
 
-    <img title="Whatsapp-Bot-Multi-Device-Forks" src="https://img.shields.io/github/forks/BOTCAHX/RTXZY-MD?label=Forks&color=%23ffdac1&style=flat-square">
+    <img title="Whatsapp-Bot-Multi-Device-Forks" src="https://img.shields.io/github/forks/XIA-BOT?label=Forks&color=%23ffdac1&style=flat-square">
 
   </a>
 
-<a href="https://www.codefactor.io/repository/github/botcahx/rtxzy-md"><img src="https://www.codefactor.io/repository/github/botcahx/rtxzy-md/badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/Kasanstore7/XIA-BOT"><img src="https://www.codefactor.io/repository/github/botcahx/rtxzy-md/badge" alt="CodeFactor" /></a>
 
-  <a href="https://github.com/BOTCAHX/RYXZY-MD/watchers">
+  <a href="https://github.com/Kasanstore7/XIA-BOT/watchers">
 
     <img title="Whatsapp-Bot-Multi-Auth" src="https://img.shields.io/github/watchers/BOTCAHX/RTXZY-MD?label=Watchers&color=%23e2f0cb&style=flat-square">
 
@@ -328,7 +328,7 @@ Contributor
 
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![Khasan dev.01](https://github.com/Kasanstore7.png?size=100)](https://github.com/BochilGaming)
 
 [![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
 
