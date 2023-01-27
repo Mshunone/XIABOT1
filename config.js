@@ -38,6 +38,7 @@ global.stiker_wait = '「98%」Loading...'
 global.packname = 'sᴛɪᴄᴋᴇʀ ʙʏ'
 global.author = 'Saxia˘Botz\nWa.me/6283111136642'
 global.mursid = '+6283111136642'
+global.succes = 'Nih Kak Dah Jadi'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
