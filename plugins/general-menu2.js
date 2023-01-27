@@ -259,7 +259,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             surface : 1,
                             message: '「 Saxia˘Botz 」',
                             orderTitle: 'Menu',
-                            thumbnail: await (await fetch('https://telegra.ph/file/46fd91bff28cd59c6659f.jpg')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/7c71907225f33f3ba5eb6.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
@@ -378,7 +378,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             }
           ]
     const listMessage = {
-      text: `❑ Saꭙࣼia˘Botz.id\n⬣ Adalah bot whatsapp yang di bangun dengan Nodejs By: Team Saxia\n⬣ Bot ini running di Panel yg di sponsori Danz :v\n⬣ Bot ini Juga bisa Membantu mu untuk Download Vidio Tiktok,Ig,Dan lain lain.\n⬣ Kalian Juga Bisa Main Game Seperti Game RPG DLL.`.trim(),
+      text: `❑ Saꭙࣼia˘Botz\n⬣ Adalah bot whatsapp yang di bangun dengan Nodejs By: Team Saxia\n⬣ Bot ini running di Panel yg di sponsori Danz :v\n⬣ Bot ini Juga bisa Membantu mu untuk Download Vidio Tiktok,Ig,Dan lain lain.\n⬣ Kalian Juga Bisa Main Game Seperti Game RPG DLL.`.trim(),
       footer: wm,
       title: judul,
       buttonText: "Taps Sini 💤",
